@@ -1,7 +1,33 @@
 ---
-title: "."
+title: "Sydney Camfield"
+image: IMG_1907.JPEG
+toc: false
+about:
+  template: trestles
+  links: 
+    - text: GitHub
+    href: https://github.com/sydneycamfield
+    - text: Email
+    href: Sydney-Camfield@ou.edu
+    - text: LinkedIn
+    href: link
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column-page}
+
+## Bio
+
+About yourself
+
+## Research Goals
+
+about your research
+
+## Experience
+
+more about you
+
+
+:::
+
