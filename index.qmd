@@ -6,11 +6,11 @@ about:
   template: trestles
   links: 
     - text: GitHub
-    href: https://github.com/sydneycamfield
+      href: https://github.com/sydneycamfield
     - text: Email
-    href: Sydney-Camfield@ou.edu
+      href: Sydney-Camfield@ou.edu
     - text: LinkedIn
-    href: link
+      href: link
 ---
 
 
